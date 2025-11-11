@@ -1,0 +1,5 @@
+{
+  "name": "Copy of HTML Code Highlighter",
+  "description": "A simple tool to paste HTML code and highlight text using a search bar. The application instantly highlights all occurrences of the search term within the provided HTML source code, making it easy to find specific elements, classes, or content.",
+  "requestFramePermissions": []
+}
