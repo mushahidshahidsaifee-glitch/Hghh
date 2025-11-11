@@ -18,10 +18,10 @@ const initialHtmlCode = `<!DOCTYPE html>
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to the Live Preview!</h1>
+        <h1>HTML Code Highlighter</h1>
         <p>This is a sample paragraph. You can search for any text, like "paragraph" or "container" to see the highlight feature in action.</p>
         <div id="main-content">
-            <p>Your HTML and inline CSS will render here.</p>
+            <p>This is an example of HTML code.</p>
             <button class="highlight" onclick="alert('JavaScript works too!')">A highlighted button</button>
         </div>
     </div>
